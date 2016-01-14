@@ -5,6 +5,7 @@
 	<projects>
 	</projects>
 	<buildSpec>
+		PENE
 		<buildCommand>
 			<name>com.aptana.editor.php.aptanaPhpBuilder</name>
 			<arguments>
